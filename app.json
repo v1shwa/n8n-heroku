@@ -41,8 +41,8 @@
         "value": "0"
       },
       "WEBHOOK_TUNNEL_URL": {
-        "description": "URL of this website",
-        "value": "https://<appname>.herokuapp.com"
+        "description": "URL of this website (don't forget the trailing slash)",
+        "value": "https://<appname>.herokuapp.com/"
       }
     },
     "formation": {
